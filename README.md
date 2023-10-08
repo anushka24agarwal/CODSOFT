@@ -1,5 +1,8 @@
 # CODSOFT
 
+## Task 2: TIC-TAC-TOE AI
+Implement an AI agent that plays the classic game of Tic-Tac-Toeagainst a human player. You can use algorithms like Minimax withor without Alpha-Beta Pruning to make the AI player unbeatable.This project will help you understand game theory and basic searchalgorithms.
+
 ## Task 3: IMAGE CAPTIONING
 Combine computer vision and natural language processing to build an image captioning AI. Use pre-trained image recognition models like VGG or ResNet to extract features from images, and then use a recurrent neural network (RNN) or transformer-based model to generate captions for those images.<br>
 [Flickr 8k Dataset](https://www.kaggle.com/adityajn105/flickr8k)
